@@ -1,6 +1,6 @@
 The MERN stack is a web development framework made up of the stack of MongoDB, Express.js, React.js, and Nodejs. It is one of the several variants of the MEAN stack. MERN stack visualized When you use the MERN stack, you work with React to implement the presentation layer, Express and Node to make up the middle or application layer, and MongoDB to create the database layer.
 
-In this MERN stack tutorial, we will utilize these four technologies to develop a basic application that is able to record the information of employees and then display it using a React.
+In this MERN stack tutorial, we will utilize these four technologies to develop a basic application that is able to manage cases and then display it using a React.
 
 How to Get Started with the MERN Stack
 To get started, you will need to do the following:
